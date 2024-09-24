@@ -4,7 +4,7 @@ public class employee {
        private int employeeId;
        private  String employeeName;
        private   double employeeSalary;
-       private int employeenumber;
+       private int employeePhone;
 	/**
 	 * @return the employeeId
 	 */
