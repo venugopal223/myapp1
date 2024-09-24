@@ -4,6 +4,7 @@ public class employee {
        private int employeeId;
        private  String employeeName;
        private   double employeeSalary;
+       private String employeeMail;
 	/**
 	 * @return the employeeId
 	 */
